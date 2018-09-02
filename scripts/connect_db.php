@@ -29,7 +29,7 @@
 // Place the password for the MySQL database here
     $db_password = "DVZUVNISPQVJIIWZ"; 
 // Place the name for the MySQL database here
-    $db_name = "online-quiz";
+    $db_name = "onlinequiz";
 
 // Run the connection here 
     mysql_connect("$db_host","$db_username","$db_password") or die (mysql_error());
